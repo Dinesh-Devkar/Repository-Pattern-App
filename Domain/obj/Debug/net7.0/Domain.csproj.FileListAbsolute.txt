@@ -1,0 +1,12 @@
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\bin\Debug\net7.0\Domain.dll
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\bin\Debug\net7.0\Domain.pdb
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\obj\Debug\net7.0\Domain.dll
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\obj\Debug\net7.0\Domain.pdb
+D:\DineshProjects\Practice\GitHubRepo\RepositoryPatternApp\Domain\obj\Debug\net7.0\ref\Domain.dll

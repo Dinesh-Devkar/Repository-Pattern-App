@@ -1,5 +1,7 @@
-﻿namespace DataAccess.EFCore;
-public class Class1
+﻿namespace DataAccess.EFCore
 {
+    public class Class1
+    {
 
+    }
 }
